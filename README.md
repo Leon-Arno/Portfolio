@@ -1,7 +1,6 @@
-# Bootstrap 4 + WebPack 4 = Boilerplate
+# Portfolio Website
 
-This is a basic boilerplate using Bootstrap 4 with SCSS and WebPack, to have an easy and fast setup for new website projects to build upon.
-
+This is a portfolio website made with a webpack & Bootstrap-Boilerplate.
 ## Installation
 
 1. Clone the repository
