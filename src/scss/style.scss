@@ -1,5 +1,5 @@
-@import "variables";
-@import "~bootstrap/scss/bootstrap";
+@import 'variables';
+@import '~bootstrap/scss/bootstrap';
 
 /* Global
 ----------------------------*/
@@ -9,7 +9,7 @@
 
 body {
   margin: 0;
-  font-family: "Rubik", sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 /* Navigation
@@ -37,7 +37,7 @@ body {
         color: $bg-black;
       }
       &:before {
-        content: "";
+        content: '';
         position: absolute;
         width: 100%;
         height: 2px;
@@ -71,6 +71,12 @@ body {
 
   b {
     font-weight: 900;
+  }
+  // ! Social media svg colors
+  .social-networks {
+    i {
+      color: $txt-secondary;
+    }
   }
 }
 .icon {
