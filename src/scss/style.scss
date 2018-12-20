@@ -72,12 +72,6 @@ body {
   b {
     font-weight: 900;
   }
-  // ! Social media svg colors
-  .social-networks {
-    i {
-      color: $txt-secondary;
-    }
-  }
 }
 .icon {
   padding: 10px;
@@ -171,6 +165,13 @@ p {
 footer {
   height: 180px;
   background-color: $bg-black;
+}
+
+// ! Social media svg colors
+.social-networks {
+  i {
+    color: $txt-secondary;
+  }
 }
 
 @media (min-width: 400px) {
