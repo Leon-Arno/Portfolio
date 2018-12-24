@@ -1,13 +1,13 @@
 {
-  "name": "bootstrap4-webpack-boilerplate",
+  "name": "Leon-Arno Portfolio",
   "version": "1.0.0",
-  "description": "A basic boilerplate for Bootstrap 4, using webpack and babel.",
+  "description": "Initial portfolio with bootstrap",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
   },
-  "author": "Dominik Hanke",
+  "author": "Leon-Arno Rimrod",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.1.3",
