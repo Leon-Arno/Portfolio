@@ -6,7 +6,7 @@
 .log
 .idea
 node_modules
-
+.netlify
 # Icon must end with two \r
 Icon
 
