@@ -10,7 +10,7 @@
 body {
   margin: 0;
   font-family: 'Rubik', sans-serif;
-  font-display: block;
+  font-display: swap;
 }
 
 /* Navigation
@@ -21,7 +21,7 @@ body {
 
   .navbar-brand {
     font-family: $font-family-sans-serif;
-    font-display: block;
+    font-display: swap;
     font-size: 1.8rem;
     line-height: 1;
     font-weight: 600;
